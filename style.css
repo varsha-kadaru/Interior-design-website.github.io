@@ -1,0 +1,16 @@
+body{
+    
+
+    font-family: cursive;
+    background-image: url("https://img.freepik.com/premium-photo/modern-home-decoration-mock-up-furniture-interior-design-minimal-living-room-black-wall-texture-background-3d-rendering_221619-942.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.wel{
+    color: white;
+    margin: auto;
+   margin-top: 5%;
+   padding: 15px;
+    text-align: center;
+    align-items: center;
+}

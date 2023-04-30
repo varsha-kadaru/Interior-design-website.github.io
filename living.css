@@ -1,0 +1,20 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/b/white-brick-wall-background-texture-modern-ideal-used-interior-design-109184657.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.image{
+    margin: 2%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.image img{
+    margin: 1%;
+    border: 10px solid black;
+    padding: 1%;
+    width: 445px;
+    height: 300px;
+}
+.image :hover{
+   transform: scale(1.1);
+}
